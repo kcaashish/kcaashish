@@ -4,15 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/kcaashish" target="blank"><img src="https://img.shields.io/twitter/follow/kcaashish?logo=twitter&style=for-the-badge" alt="kcaashish" /></a> </p>
 
-- 🔭 I’m currently working on [RennervateML](https://github.com/kcaashish/RennervateML)
+- 🔭 I’m currently working on Golang.
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **backend development.**
 
-- 👯 I’m looking to collaborate on **projects with GitHub Campus Experts, and anything with Python and JS!**
+- 📚 I'm currently reading **Beartown by Fredrik Backman**.
 
-- 🤝 I’m looking for help with **Machine Learning.**
+- 👯 I’m looking to collaborate on **projects with GitHub Campus Experts, and web development projects.**
 
-- 💬 Ask me about **GitHub Campus Experts, Web Development.**
+- 🤝 I’m looking for help with **web development.**
+
+- 💬 Ask me about **GitHub Campus Experts, Clinical trial programming, SDTM, SAS and R.**
 
 - 📫 How to reach me **kcaashish@gmail.com**
 
