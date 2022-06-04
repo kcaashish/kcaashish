@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Aashish, an undergrad Computer Engineering student at Kathmandu University from <img src="https://user-images.githubusercontent.com/31175326/124346781-7b334380-dc00-11eb-96a5-3218bfaf3487.png" width="14"/> <b>Kathmandu, Nepal</b>.
+<p>Welcome to my page! </br> I'm Aashish, a Computer Engineering graduate from Kathmandu University living in <img src="https://user-images.githubusercontent.com/31175326/124346781-7b334380-dc00-11eb-96a5-3218bfaf3487.png" width="14"/> <b>Kathmandu, Nepal</b>.
 
 <p align="left"> <a href="https://twitter.com/kcaashish" target="blank"><img src="https://img.shields.io/twitter/follow/kcaashish?logo=twitter&style=for-the-badge" alt="kcaashish" /></a> </p>
 
