@@ -1,24 +1,24 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
 
 <p>Welcome to my page! </br> I'm Aashish, a Computer Engineering graduate from Kathmandu University living in <img src="https://user-images.githubusercontent.com/31175326/124346781-7b334380-dc00-11eb-96a5-3218bfaf3487.png" width="14"/> <b>Kathmandu, Nepal</b>.
 
 <p align="left"> <a href="https://twitter.com/kcaashish" target="blank"><img src="https://img.shields.io/twitter/follow/kcaashish?logo=twitter&style=for-the-badge" alt="kcaashish" /></a> </p>
 
-- 🔭 I’m currently working on Golang.
+- 🔭 I’m currently working on software developemt with Go.
 
-- 🌱 I’m currently learning **backend development.**
+- 🌱 I’m currently learning **TypeScript.**
 
 - 📚 I'm currently reading **Beartown by Fredrik Backman**.
 
-- 👯 I’m looking to collaborate on **projects with GitHub Campus Experts, and web development projects.**
+- 👯 I’m looking to collaborate on **projects with GitHub Campus Experts and web development projects.**
 
-- 🤝 I’m looking for help with **web development.**
+- 🤝 I’m looking for help with **frontend development.**
 
-- 💬 Ask me about **GitHub Campus Experts, Clinical trial programming, SDTM, SAS and R.**
+- 💬 Ask me about **GitHub Campus Experts, R, Python and Go.**
 
-- 📫 How to reach me **kcaashish@gmail.com**
+- 📫 How to reach me **kcaashish@gmail.com**.
 
-- ⚡ Fun fact: **Reading books is the best things you could do for yourself!**
+- ⚡ Fun fact: **Reading books is one of the best things you could do for yourself!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
