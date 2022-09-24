@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
 
-<p>I'm Aashish. I am a back-end developer working with Go. I am a Computer Engineering graduate from Kathmandu University and I live and work from <b>Kathmandu, Nepal</b> <img src="https://user-images.githubusercontent.com/31175326/124346781-7b334380-dc00-11eb-96a5-3218bfaf3487.png" width="14"/>.
+<p>I'm Aashish. I am a back-end developer. I am a Computer Engineering graduate from Kathmandu University and I live and work from <b>Kathmandu, Nepal</b> <img src="https://user-images.githubusercontent.com/31175326/124346781-7b334380-dc00-11eb-96a5-3218bfaf3487.png" width="14"/>.
  Feel free to reach out to me through any of the contacts below.
 
 <p align="left"> <a href="https://twitter.com/kcaashish" target="_blank"><img src="https://img.shields.io/twitter/follow/kcaashish?logo=twitter&style=for-the-badge" alt="kcaashish" /></a> </p>
 
-- 🔭 I’m currently working on software developemt with Go.
+- 🔭 I’m currently working on software developemt with Go and Python.
 
 - 🌱 I’m currently learning **GraphQL, TypeScript.**
 
