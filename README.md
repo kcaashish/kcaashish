@@ -21,8 +21,8 @@
 
 - ⚡ Fun fact: **Reading books is one of the best things you could do for yourself!**
 
-[![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcaashish&count_private=true&line_height=24&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Aashish's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=7&role=OWNER,COLLABORATOR&card_width=250&hide=jupyter%20notebook&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Aashish's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kcaashish&count_private=true&line_height=24&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Aashish's Language stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=7&role=OWNER,COLLABORATOR&card_width=250&hide=jupyter%20notebook&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
