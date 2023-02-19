@@ -1,7 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
 
-<p>I'm Aashish. I am a back-end developer. I am a Computer Engineering graduate from Kathmandu University and I live and work from <b>Kathmandu, Nepal</b> <img src="https://user-images.githubusercontent.com/31175326/124346781-7b334380-dc00-11eb-96a5-3218bfaf3487.png" width="14"/>.
- Feel free to reach out to me through any of the contacts below.
+I am a backend developer from <b>Kathmandu, Nepal</b> <img src="https://user-images.githubusercontent.com/31175326/124346781-7b334380-dc00-11eb-96a5-3218bfaf3487.png" width="14"/>.
+ 
+
+Feel free to reach out to me through any of the contacts below.
 
 <p align="left"> <a href="https://twitter.com/kcaashish" target="_blank"><img src="https://img.shields.io/twitter/follow/kcaashish?logo=twitter&style=for-the-badge" alt="kcaashish" /></a> </p>
 
@@ -11,7 +13,7 @@
 
 - 📚 I'm currently reading **Beartown by Fredrik Backman**.
 
-- 👯 I’m looking to collaborate on **projects with GitHub Campus Experts and web development projects.**
+- 👯 I’m looking to collaborate on **cloud native and web development projects.**
 
 - 🤝 I’m looking for help with **frontend development.**
 
@@ -19,10 +21,9 @@
 
 - 📫 How to reach me **kcaashish@gmail.com**.
 
-- ⚡ Fun fact: **Reading books is one of the best things you could do for yourself!**
-
-[![Aashish's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kcaashish&count_private=true&line_height=24&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Aashish's Language stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=7&role=OWNER,COLLABORATOR&card_width=250&hide=jupyter%20notebook&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcaashish&count_private=true&line_height=24&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Aashish's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&hide=jupyter%20notebook&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kcaashish&layout=compact&range=last_7_days&custom_title=Wakatime+Stats+(+Last+7+days+)&line_height=24&card_width=250&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
