@@ -7,25 +7,28 @@ Feel free to reach out to me through any of the contacts below.
 
 <p align="left"> <a href="https://twitter.com/kcaashish" target="_blank"><img src="https://img.shields.io/twitter/follow/kcaashish?logo=twitter&style=for-the-badge" alt="kcaashish" /></a> </p>
 
+## What I am doing
 - 🔭 I’m currently working on software developemt with Go and Python.
-
 - 🌱 I’m currently learning **GraphQL, TypeScript.**
-
 - 📚 I'm currently reading **Beartown by Fredrik Backman**.
-
 - 👯 I’m looking to collaborate on **cloud native and web development projects.**
-
 - 🤝 I’m looking for help with **frontend development.**
-
 - 💬 Ask me about **GitHub Campus Experts, R, Python and Go.**
-
 - 📫 How to reach me **kcaashish@gmail.com**.
 
-[![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcaashish&count_private=true&line_height=24&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Aashish's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&hide=jupyter%20notebook&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kcaashish&layout=compact&range=last_7_days&custom_title=Wakatime+Stats+(+Last+7+days+)&line_height=24&card_width=250&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub stats
 
-<h3 align="left">Connect with me:</h3>
+[![Aashish's GitHub stats](https://github-readme-stats-gamma-ashen-26.vercel.app/api?username=kcaashish&count_private=true&line_height=24&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Aashish's Language stats](https://github-readme-stats-gamma-ashen-26.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&hide=jupyter%20notebook&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## Weekly breakdown
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+## Connect with me
+
 <p align="left">
 <a href="https://twitter.com/kcaashish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kcaashish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kcaashish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kcaashish" height="30" width="40" /></a>
