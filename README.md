@@ -23,18 +23,7 @@ Feel free to reach out to me through any of the contacts below.
 
 ## Weekly breakdown
 
-<!--START_SECTION:waka-->
-
-```text
-Go          7 hrs 22 mins   ███████████████░░░░░░░░░░   59.71 %
-Lua         3 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 %
-tmux        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-YAML        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Text        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-gitignore   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-```
-
-<!--END_SECTION:waka-->
+[![Wakatime stats](https://github-readme-stats-gamma-ashen-26.vercel.app/api/wakatime?username=kcaashish&layout=compact&range=last_7_days&custom_title=Wakatime+Stats+(+Last+7+days+)&line_height=24&card_width=250&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 
