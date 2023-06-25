@@ -18,8 +18,8 @@ Feel free to reach out to me through any of the contacts below.
 
 ## GitHub stats
 
-[![Aashish's GitHub stats](https://github-readme-stats-kcaashish.vercel.app/api?username=kcaashish&count_private=true&line_height=24&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Aashish's Language stats](https://github-readme-stats-kcaashish.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&hide=jupyter%20notebook&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Aashish's GitHub stats](https://github-readme-stats-kcaashish.vercel.app/api?username=kcaashish&line_height=24&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Aashish's Language stats](https://github-readme-stats-kcaashish.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=8&size_weight=1&count_weight=0&role=OWNER,COLLABORATOR&hide=jupyter%20notebook&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Weekly breakdown
 
