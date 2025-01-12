@@ -23,7 +23,7 @@ Feel free to reach out to me through any of the contacts below.
 
 ## Weekly breakdown
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kcaashish&layout=compact&langs_count=6&range=last_7_days&custom_title=Wakatime+Stats+(+Last+7+days+)&line_height=24&card_width=250&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kcaashish&layout=compact&langs_count=6&display_format=percent&line_height=24&card_width=250&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/a2731272-2a25-4431-b496-34fe3644f297.svg)](https://wakatime.com/@a2731272-2a25-4431-b496-34fe3644f297)
 
