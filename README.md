@@ -1,33 +1,60 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey, I'm Aashish
+</h1>
 
-I am a backend developer from <b>Kathmandu, Nepal</b> <img src="https://user-images.githubusercontent.com/31175326/124346781-7b334380-dc00-11eb-96a5-3218bfaf3487.png" width="14"/>.
- 
+<p align="center">
+  Backend engineer building microservices &amp; distributed systems in Go
+  <br/>
+  📍 Kathmandu, Nepal <img src="https://user-images.githubusercontent.com/31175326/124346781-7b334380-dc00-11eb-96a5-3218bfaf3487.png" width="14"/>
+</p>
 
-Feel free to reach out to me through any of the contacts below.
+<p align="center">
+  <a href="https://twitter.com/kcaashish">
+    <img src="https://img.shields.io/badge/Follow-%40kcaashish-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow me on X"/>
+  </a>
+  <a href="https://kcaashish.com">
+    <img src="https://img.shields.io/badge/Website-kcaashish.com-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
-[![Follow me on X](https://img.shields.io/badge/Follow-%40kcaashish-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kcaashish)
+---
 
-## What I am doing
-- 🔭 I’m currently working on software developemt with Go and Python.
-- 🌱 I’m currently learning **GraphQL, TypeScript.**
-- 📚 I'm currently reading **Beartown by Fredrik Backman**.
-- 👯 I’m looking to collaborate on **cloud native and web development projects.**
-- 🤝 I’m looking for help with **frontend development.**
-- 💬 Ask me about **GitHub Campus Experts, R, Python and Go.**
-- 📫 How to reach me **kcaashish@gmail.com**.
+### 👨‍💻 What I'm doing
 
-## GitHub stats
+- 🔭 Building backend systems in **Go** and **Python** — microservices and distributed systems
+- 🌱 Currently exploring **AI/ML**
+- 📚 Currently reading **A Gentleman in Moscow** by Amor Towles
+- 💹 Long-term curious about **quant finance**
+- 👯 Looking to collaborate on **cloud-native and web development projects**
+- 🤝 Looking for help with **frontend development**
+- 💬 Ask me about **Go, distributed systems, Python, R, and GitHub Campus Experts**
+- 📫 Reach me at **kcaashish@gmail.com**
 
-[![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcaashish&line_height=24&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Aashish's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&role=OWNER,COLLABORATOR&hide=html,css,jupyter%20notebook&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Weekly breakdown
+### 🛠️ Tech I work with
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kcaashish&layout=compact&langs_count=6&display_format=percent&line_height=24&card_width=250&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,react,docker,kubernetes,postgres,redis,linux,git" />
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/a2731272-2a25-4431-b496-34fe3644f297.svg)](https://wakatime.com/@a2731272-2a25-4431-b496-34fe3644f297)
+---
 
-## Connect with me
+### 📊 GitHub stats
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=kcaashish&line_height=24&show_icons=true&hide_border=true&theme=tokyonight" alt="Aashish's GitHub stats" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kcaashish&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&role=OWNER,COLLABORATOR&hide=html,css,jupyter%20notebook&hide_border=true&theme=tokyonight" alt="Aashish's Language stats" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=kcaashish&theme=tokyonight&hide_border=true" alt="Aashish's GitHub streak"/>
+</p>
+
+---
+
+### 🤝 Connect with me
 
 <p align="left">
 <a href="https://twitter.com/kcaashish" target="_blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" alt="kcaashish" height="30" width="40" /></a>
